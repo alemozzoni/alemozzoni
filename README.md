@@ -43,27 +43,6 @@
 
 ---
 
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alemozzoni&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alemozzoni&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 ## 💻 Currently Working On
 
 - 📚 University projects
